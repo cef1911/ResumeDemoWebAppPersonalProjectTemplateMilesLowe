@@ -15,9 +15,9 @@ from PIL import Image
 This is inspired from the StreamLit.io site.
 See the website for more info https://streamlit.io/
 
-Click the link to view Dennis Gresham-Chappelle Resume 
+Click the link to view Miles Lowe Resume 
 
-https://acrobat.adobe.com/id/urn:aaid:sc:US:f6753253-82dc-4bb6-9dda-745896a2ab49
+https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:18cf4607-b361-472b-8c76-125556167eb8
 
 """
 
